@@ -22,3 +22,8 @@ ZCZC W03 60 L13 Assignment #03
 ZCZC W03 100 L02 CLASSROOM/ZOOM meetings related
 ZCZC W03 40 L01 SCELE/Discord related
 ZCZC W03 30 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W04 100 L02 Class Session
+ZCZC W04 60 L14 Assignment #04
+ZCZC W04 100 L02 Class Session
+ZCZC W04 30 L01 SCELE Popquiz
+ZCZC W04 60 L05 Quiz related including studying
