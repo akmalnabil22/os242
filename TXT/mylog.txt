@@ -27,3 +27,8 @@ ZCZC W04 60 L14 Assignment #04
 ZCZC W04 100 L02 Class Session
 ZCZC W04 30 L01 SCELE Popquiz
 ZCZC W04 60 L05 Quiz related including studying
+ZCZC W05 100 Class Session
+ZCZC W05 60 L15 Assignment #05
+ZCZC W05 100 Class Session
+ZCZC W05 30 L01 SCELE pop quiz
+ZCZC W05 60 L05 Quiz related including studying
