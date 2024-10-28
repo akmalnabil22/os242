@@ -11,3 +11,6 @@ ZCZC W04 Dardrich
 ZCZC W05 crlnravel
 ZCZC W05 turpatur
 ZCZC W05 thorbert-anson-shi
+ZCZC W06 ArzakaRaffan
+ZCZC W06 syauqiyasman
+ZCZC W06 SimforianusJonathan
