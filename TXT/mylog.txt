@@ -37,3 +37,8 @@ ZCZC W06 60 L16 Assignment #06
 ZCZC W06 100 Class Session
 ZCZC W06 40 L01 SCELE pop quiz
 ZCZC W06 30 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W07 100 L02 Class Session
+ZCZC W07 50 L17 Assignment #07
+ZCZC W07 100 Class Session
+ZCZC W07 60 L01 SCELE pop quiz
+ZCZC W07 120 L05 Quiz related including studying 

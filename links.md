@@ -12,3 +12,4 @@ permalink: LINKS/
 [Silberschatz](https://codex.cs.yale.edu/avi/os-book/OS10/slide-dir/) - Link to Silberschatz slides  
 [Recording WEEK04](https://www.youtube.com/watch?v=uFj7mKNq1t0) - Recording about Addressing, Shared Lib, & Pointer  
 [Segmented, Paged and Virtual Memory](https://www.youtube.com/watch?v=p9yZNLeOj4s) - Overview of the paged and segmented memory management systems  
+[Process Synchronization Playlist](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjDf_dmCEXgl6XjVKDDj0M2) - Youtube playlist explaining Process Synchronization  
